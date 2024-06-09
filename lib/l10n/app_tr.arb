@@ -1,0 +1,20 @@
+{
+  "@@locale": "tr",
+  "news": "Haberler",
+  "myNews": "Haberlerim",
+  "settings": "Ayarlar",
+  "createNews": "Haber Oluştur",
+  "title": "Başlık",
+  "goTitle": "Başlık Giriniz",
+  "description": "Açıklama",
+  "godescription": "Açıklama Giriniz",
+  "save": "Kaydet",
+  "publishedAt": "Yayınlanma Tarihi",
+  "savedData": "Veriler Kaydedildi",
+  "theme": "Tema",
+  "dark": "Koyu",
+  "light": "Açık",
+  "language": "Dil",
+  "turkish": "Türkçe",
+  "english": "İngilizce"
+}

@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "news": "News",
+  "myNews": "My News",
+  "settings": "Settings",
+  "createNews": "Create News",
+  "title": "Title",
+  "goTitle": "Enter Title",
+  "description": "Description",
+  "godescription": "Enter Description",
+  "save": "Save",
+  "publishedAt": "Published At",
+  "savedData": "Data Saved",
+  "theme": "Theme",
+  "dark": "Dark",
+  "light": "Light",
+  "language": "Language",
+  "turkish": "Turkish",
+  "english": "English"
+}
