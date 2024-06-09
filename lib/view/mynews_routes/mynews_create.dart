@@ -25,7 +25,7 @@ class _MyNews_Create_ScreenState extends State<MyNews_Create_Screen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title:Text( "Haber Oluştur",),
+        title:Text( "Haber oluştur",),
       ),
 
 
