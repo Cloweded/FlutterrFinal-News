@@ -18,7 +18,7 @@ class _SettingsState extends State<Settings> {
     return Scaffold(
 
       appBar: AppBar(
-        title: Text("Ayarlar"),
+        title: Text("Ayarlarr"),
       ),
 
 
