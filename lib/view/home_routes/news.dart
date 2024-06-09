@@ -23,7 +23,7 @@ class _News_ScreenState extends State<News_Screen> {
 
       appBar: AppBar(
 
-        title: Text("Haberler"),
+        title: Text("Haberlerr"),
       ),
     
 
