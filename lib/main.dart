@@ -39,7 +39,7 @@ class _MainAppState extends State<MainApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Proje",
+      title: "News",
       locale: Locale("tr"),
       localizationsDelegates: [
         GlobalMaterialLocalizations.delegate,
