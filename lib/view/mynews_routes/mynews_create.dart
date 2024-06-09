@@ -59,7 +59,7 @@ class _MyNews_Create_ScreenState extends State<MyNews_Create_Screen> {
                path = file.path ;
              });
            }else {
-            print("fotoğraf alınamadı");
+            print("fotoğraf alınmadı");
            }
             },
             child: Container(
