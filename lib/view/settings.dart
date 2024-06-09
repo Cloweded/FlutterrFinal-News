@@ -32,8 +32,8 @@ class _SettingsState extends State<Settings> {
               themeIsLight = !themeIsLight;
             });
           },
-          title: Text("Tema"),
-          trailing: Text(themeIsLight?"Açık" : "Koyu"),
+          title: Text("Temaa"),
+          trailing: Text(themeIsLight?"Açık" : "Koyuu"),
         ),
           Divider(),
 
