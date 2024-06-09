@@ -66,7 +66,7 @@ class _news_DetailsState extends State<news_Details> {
                   ),
                   SizedBox(height: 10),
                   Text(
-                    'Yayınlanma Tarihi: ${news.publishedAt}',
+                    'Yayın Tarihi: ${news.publishedAt}',
                     style: TextStyle(
                       fontSize: 12,
                       fontStyle: FontStyle.italic,
